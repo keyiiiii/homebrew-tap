@@ -4,7 +4,7 @@ cask "voxbridge" do
 
   url "https://github.com/keyiiiii/VoxBridge/releases/download/v#{version}/VoxBridge-#{version}-arm64.zip"
   name "VoxBridge"
-  desc "Fully local voice input tool for macOS"
+  desc "Fully local voice input tool with push-to-talk"
   homepage "https://github.com/keyiiiii/VoxBridge"
 
   depends_on macos: ">= :sonoma"
