@@ -1,6 +1,6 @@
 cask "voxbridge" do
-  version "0.5.0"
-  sha256 "f8b504328885567ece44f0a6aec1ae438f6eb1642a7f1165c0d5dea69c9d0216"
+  version "0.6.0"
+  sha256 "8cd5842be5874ff6b2c558e3836823f1fa870ef7080a3e0c366b2c9a150abe38"
 
   url "https://github.com/keyiiiii/VoxBridge/releases/download/v#{version}/VoxBridge-#{version}-arm64.zip"
   name "VoxBridge"
