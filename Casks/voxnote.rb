@@ -1,6 +1,6 @@
 cask "voxnote" do
-  version "1.5.0"
-  sha256 "89e2d4db75e248d38a1cc6c0a053a6ca1857d70704f380f62bffc414101b2291"
+  version "1.6.0"
+  sha256 "d10b9170393810b0a6e057df697e4ce80ec712c702fdec98b0c78809dd000f9c"
 
   url "https://github.com/keyiiiii/VoxNote/releases/download/v#{version}/VoxNote-#{version}.zip"
   name "VoxNote"
